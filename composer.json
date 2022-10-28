@@ -14,7 +14,9 @@
             "Vayu\\": "app/"
         }
     },
-    "require": {},
+    "require": {
+        "psr/container": "^2.0"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
